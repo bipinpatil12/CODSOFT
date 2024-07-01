@@ -1,0 +1,873 @@
+.frame {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .codsoft-portfolio-wrapper {
+  width: 1659px;
+  height: 4961px;
+}
+
+.frame .codsoft-portfolio {
+  position: relative;
+  width: 1440px;
+  height: 4961px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.frame .footer {
+  position: absolute;
+  width: 1442px;
+  height: 100px;
+  top: 4861px;
+  left: 0;
+  background-color: transparent;
+}
+
+.frame .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 100px;
+  background-color: #31065a;
+}
+
+.frame .footer-text {
+  position: absolute;
+  top: 39px;
+  left: 153px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .contact {
+  position: absolute;
+  width: 1440px;
+  height: 800px;
+  top: 4061px;
+  left: 0;
+  background-color: #170550;
+}
+
+.frame .div {
+  position: absolute;
+  width: 227px;
+  height: 60px;
+  top: 102px;
+  left: 608px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 225px;
+  height: 2px;
+  top: 58px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.frame .group {
+  position: absolute;
+  width: 293px;
+  height: 162px;
+  top: 319px;
+  left: 571px;
+}
+
+.frame .contact-left-content {
+  position: relative;
+  height: 162px;
+}
+
+.frame .contact-text {
+  position: absolute;
+  width: 242px;
+  height: 161px;
+  top: 0;
+  left: 57px;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: 72px;
+  left: 2px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  top: 137px;
+  left: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .contact-icons {
+  position: absolute;
+  width: 25px;
+  height: 160px;
+  top: 2px;
+  left: 0;
+}
+
+.frame .portfolio {
+  position: absolute;
+  width: 1440px;
+  height: 800px;
+  top: 3261px;
+  left: 0;
+  background-color: #31065a;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .div-2 {
+  position: absolute;
+  width: 225px;
+  height: 2px;
+  top: 58px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.frame .portfolio-item {
+  position: absolute;
+  width: 1142px;
+  height: 200px;
+  top: 300px;
+  left: 150px;
+}
+
+.frame .img {
+  position: absolute;
+  width: 275px;
+  height: 200px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .overlap-group-2 {
+  position: absolute;
+  width: 275px;
+  height: 200px;
+  top: 0;
+  left: 289px;
+  background-image: url(./img/rectangle-21.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 75px;
+  left: 125px;
+}
+
+.frame .text-wrapper-6 {
+  position: absolute;
+  top: 110px;
+  left: 82px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 275px;
+  height: 200px;
+  top: 0;
+  left: 577px;
+  object-fit: cover;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 275px;
+  height: 200px;
+  top: 0;
+  left: 865px;
+  object-fit: cover;
+}
+
+.frame .skills {
+  position: absolute;
+  width: 1440px;
+  height: 800px;
+  top: 2461px;
+  left: 0;
+  background-color: #170550;
+}
+
+.frame .skills-row {
+  position: absolute;
+  width: 1141px;
+  height: 366px;
+  top: 263px;
+  left: 151px;
+}
+
+.frame .HTML-CSS {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 61px;
+}
+
+.frame .element {
+  position: absolute;
+  top: 0;
+  left: 1090px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 61px;
+}
+
+.frame .skills-bars {
+  position: absolute;
+  width: 835px;
+  height: 325px;
+  top: 23px;
+  left: 221px;
+}
+
+.frame .rectangle-wrapper {
+  position: absolute;
+  width: 835px;
+  height: 20px;
+  top: 0;
+  left: 0;
+  background-color: #42366a;
+  border-radius: 20px;
+}
+
+.frame .rectangle-4 {
+  width: 733px;
+  position: relative;
+  height: 10px;
+  top: 5px;
+  background-color: #f86f03;
+  border-radius: 10px;
+}
+
+.frame .div-wrapper {
+  position: absolute;
+  width: 835px;
+  height: 20px;
+  top: 61px;
+  left: 0;
+  background-color: #42366a;
+  border-radius: 20px;
+}
+
+.frame .rectangle-5 {
+  position: relative;
+  width: 678px;
+  height: 10px;
+  top: 5px;
+  background-color: #f86f03;
+  border-radius: 10px;
+}
+
+.frame .group-3 {
+  position: absolute;
+  width: 835px;
+  height: 20px;
+  top: 122px;
+  left: 0;
+  background-color: #42366a;
+  border-radius: 20px;
+}
+
+.frame .rectangle-6 {
+  width: 565px;
+  position: relative;
+  height: 10px;
+  top: 5px;
+  background-color: #f86f03;
+  border-radius: 10px;
+}
+
+.frame .group-4 {
+  position: absolute;
+  width: 835px;
+  height: 20px;
+  top: 183px;
+  left: 0;
+  background-color: #42366a;
+  border-radius: 20px;
+}
+
+.frame .rectangle-7 {
+  width: 604px;
+  position: relative;
+  height: 10px;
+  top: 5px;
+  background-color: #f86f03;
+  border-radius: 10px;
+}
+
+.frame .group-5 {
+  position: absolute;
+  width: 835px;
+  height: 20px;
+  top: 244px;
+  left: 0;
+  background-color: #42366a;
+  border-radius: 20px;
+}
+
+.frame .group-6 {
+  position: absolute;
+  width: 835px;
+  height: 20px;
+  top: 305px;
+  left: 0;
+  background-color: #42366a;
+  border-radius: 20px;
+}
+
+.frame .rectangle-8 {
+  width: 456px;
+  position: relative;
+  height: 10px;
+  top: 5px;
+  background-color: #f86f03;
+  border-radius: 10px;
+}
+
+.frame .skills-heading {
+  position: absolute;
+  width: 227px;
+  height: 60px;
+  top: 76px;
+  left: 609px;
+}
+
+.frame .my-skills {
+  left: 28px;
+  position: absolute;
+  top: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .span {
+  color: #ffffff;
+}
+
+.frame .text-wrapper-7 {
+  color: #f86f03;
+}
+
+.frame .service {
+  position: absolute;
+  width: 1440px;
+  height: 800px;
+  top: 1661px;
+  left: 0;
+  background-color: #31065a;
+}
+
+.frame .service-heading {
+  position: absolute;
+  width: 227px;
+  height: 60px;
+  top: 76px;
+  left: 608px;
+}
+
+.frame .my-projects {
+  left: 1px;
+  position: absolute;
+  top: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .service-row {
+  position: absolute;
+  width: 834px;
+  height: 532px;
+  top: 236px;
+  left: 308px;
+}
+
+.frame .web {
+  position: absolute;
+  width: 374px;
+  height: 531px;
+  top: 1px;
+  left: 0;
+}
+
+.frame .overlap-group-3 {
+  position: relative;
+  width: 370px;
+  height: 531px;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.frame .p {
+  position: absolute;
+  width: 305px;
+  top: 232px;
+  left: 31px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #170550;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  top: 168px;
+  left: 54px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #170550;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .web-icon {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 46px;
+  left: 143px;
+}
+
+.frame .apps {
+  position: absolute;
+  width: 371px;
+  height: 399px;
+  top: 0;
+  left: 467px;
+}
+
+.frame .overlap {
+  position: relative;
+  width: 367px;
+  height: 399px;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  top: 169px;
+  left: 120px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #170550;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .icon {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 47px;
+  left: 143px;
+}
+
+.frame .about {
+  position: absolute;
+  width: 1440px;
+  height: 800px;
+  top: 861px;
+  left: 0;
+  background-color: #170550;
+}
+
+.frame .about-headding {
+  position: absolute;
+  width: 227px;
+  height: 60px;
+  top: 66px;
+  left: 576px;
+}
+
+.frame .about-me {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .about-text {
+  position: absolute;
+  width: 663px;
+  height: 313px;
+  top: 243px;
+  left: 636px;
+}
+
+.frame .frontend-developer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .greetings-i-m-bipin {
+  position: absolute;
+  width: 657px;
+  top: 111px;
+  left: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .eager-to-collaborate {
+  position: absolute;
+  width: 657px;
+  top: 228px;
+  left: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image {
+  width: 391px;
+  height: 376px;
+  top: 243px;
+  left: 111px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 776px;
+  top: 85px;
+  left: 0;
+}
+
+.frame .banner {
+  position: absolute;
+  width: 1440px;
+  height: 776px;
+  top: 0;
+  left: 0;
+  background-color: #31065a;
+}
+
+.frame .banner-image {
+  position: absolute;
+  width: 577px;
+  height: 683px;
+  top: 27px;
+  left: 689px;
+}
+
+.frame .home-text {
+  position: absolute;
+  width: 532px;
+  height: 356px;
+  top: 210px;
+  left: 146px;
+}
+
+.frame .download-button {
+  position: absolute;
+  width: 202px;
+  height: 41px;
+  top: 315px;
+  left: 2px;
+}
+
+.frame .overlap-group-4 {
+  position: relative;
+  width: 200px;
+  height: 41px;
+  background-color: #f86f03;
+  border-radius: 20px;
+}
+
+.frame .text-wrapper-10 {
+  position: absolute;
+  width: 111px;
+  top: 10px;
+  left: 44px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.frame .social-icons {
+  position: absolute;
+  width: 122px;
+  height: 16px;
+  top: 261px;
+  left: 41px;
+}
+
+.frame .and-i-m-a-web {
+  position: absolute;
+  width: 524px;
+  top: 112px;
+  left: 2px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 35px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 405px;
+  height: 107px;
+  top: 0;
+  left: 0;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  width: 405px;
+  top: 35px;
+  left: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .hi-it-s-me {
+  position: absolute;
+  width: 134px;
+  top: 0;
+  left: 2px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #f86f03;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .image-2 {
+  width: 100px;
+  height: 100px;
+  top: 593px;
+  left: 201px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.frame .header {
+  position: absolute;
+  width: 1440px;
+  height: 85px;
+  top: 0;
+  left: 0;
+  background-color: #170550;
+}
+
+.frame .menu-row {
+  width: 543px;
+  top: 31px;
+  left: 448px;
+  position: relative;
+  height: 22px;
+}
+
+.frame .menu-item {
+  width: 555px;
+  position: relative;
+  height: 22px;
+}
+
+.frame .text-wrapper-12 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-13 {
+  position: absolute;
+  top: 0;
+  left: 82px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-14 {
+  position: absolute;
+  top: 0;
+  left: 196px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-15 {
+  position: absolute;
+  top: 0;
+  left: 374px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-16 {
+  position: absolute;
+  top: 0;
+  left: 298px;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-17 {
+  left: 479px;
+  position: absolute;
+  top: 0;
+  font-family: "Exo 2", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
